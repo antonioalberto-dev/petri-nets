@@ -9,7 +9,6 @@ public class Rn_9 {
 
         System.out.println("Rede de Petri - Inicial");
         Matriz.imprimirMatriz(rede, 3, 3);
-        System.out.println("---------------------------------");
 
         System.out.printf("q0 -> ");
         rede[0][2] = 0;
@@ -17,10 +16,6 @@ public class Rn_9 {
         rede[1][2] = 3;
         rede[2][2] = 2;
         System.out.println("q1, q2");
-        Matriz.imprimirMatriz(rede, 3, 3);
-        System.out.println("---------------------------------");
-
-        System.out.println("Rede de Petri - Final");
         Matriz.imprimirMatriz(rede, 3, 3);
     }
 }
