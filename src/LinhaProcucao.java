@@ -1,6 +1,6 @@
 import utils.Matriz;
 
-public class Rn_10 {
+public class LinhaProcucao {
   public static void main(String[] args) {
     int[][] rede = {          //    t0    t1   M
         { 1, 0, 0, 1, 1 },    // { 1, 0, 0, 1, 1 }

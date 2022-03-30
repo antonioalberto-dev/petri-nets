@@ -1,6 +1,6 @@
 import utils.Matriz;
 
-public class Rn_30 {
+public class RedesBasicas {
   public static void main(String[] args) {
     int[][] redeSequenciamento = { // E S M
         { 1, 0, 1 }, // { 1, 0, 1 }

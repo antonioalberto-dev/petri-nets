@@ -1,6 +1,6 @@
 import utils.Matriz;
 
-public class Rn_9 {
+public class MultiplosArcos {
     public static void main(String[] args) throws Exception {
         int[][] rede = {        //   E  S  M
                 { 3, 0, 3 },    // { 3, 0, 3 }
