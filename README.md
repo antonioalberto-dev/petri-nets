@@ -10,3 +10,9 @@ O espaço de trabalho contém duas pastas por padrão, onde:
 - `lib`: a pasta para manter as dependências
 
 Entretanto, os ficheiros de saída compilados serão gerados, por padrão, na pasta `bin`.
+
+## Autores
+- Antônio Alberto
+- Henrique Simas
+- Jeferson 
+- Ramon
