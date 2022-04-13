@@ -24,7 +24,6 @@ public class Seguranca {
     
     System.out.println("p0 -> t0 -> p1 -> t1");
     System.out.println("         -> p2 -> t2 -> p3 -> t3");
-    // rede[1][8] -= rede[1][1];
     rede[2][8] -= rede[2][2];
     rede[4][8] -= rede[4][0];
     Matriz.imprimirMatriz(rede, 6, 9);
